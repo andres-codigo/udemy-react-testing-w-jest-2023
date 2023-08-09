@@ -9,3 +9,7 @@ npx rtl-book serve roles-notes.js
 # to run query-notes.js
 
 npx rtl-book serve query-notes.js
+
+# to run criteria-notes.js
+
+npx rtl-book serve criteria-notes.js
